@@ -1,2 +1,2 @@
 # cpp_exercises
-Repository for fun exercises mostly in C++
+Repository for fun exercises mostly in C++.
